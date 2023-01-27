@@ -68,11 +68,9 @@ h1 {
 
 .cross::before {
   content: "X";
-  font-family: "Monoton", cursive;
   color: #001aff;
 }
 .zero::before {
-  font-family: "Monoton", cursive;
   content: "O";
   color: #ff3c00;
 }

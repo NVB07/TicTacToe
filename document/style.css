@@ -392,7 +392,6 @@ input[type="radio"]{
   }
   #result::first-letter {
     color: yellow;
-    font-family: "Monoton", cursive;
     background-color: #333333;
     padding: 3px 10px;
     display: inline-block;

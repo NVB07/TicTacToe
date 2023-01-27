@@ -1,1 +1,1 @@
-Visit the page : <a target="_blank" href="https://nvb07.github.io/TicTacToe/">Tic Tac Toe</a>
+Visit the page : <a  href="https://nvb07.github.io/TicTacToe/" target="_blank>Tic Tac Toe</a>

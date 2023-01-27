@@ -316,9 +316,9 @@ submitOneInfor.addEventListener('click', function(){
                 endgame.style.display= "flex"
                 resultContainer.innerText = "X Won the Match.";
             } else {
-                soundWin.play()
+                soundDrau.play();
                 endgame.style.display= "flex"
-                resultContainer.innerText = "O Won the Match.";
+                resultContainer.innerText = "$ You lose !";
             }
         } else if (len == 8) {
             winStatus = true;
